@@ -1,0 +1,24 @@
+global:
+  scrape_interval: 5s
+  evaluation_interval: 5s
+  external_labels:
+    monitor: 'spring-boot-monitor'
+
+scrape_configs:
+
+  - job_name: 'service-client'
+    metrics_path: '/actuator/prometheus'
+    static_configs:
+      - targets: ['host.docker.internal:8080']
+        labels:
+          service: 'service-client'
+          instance: 'service-client-1'
+
+  - job_name: 'service-voiture'
+    metrics_path: '/actuator/prometheus'
+    static_configs:
+      - targets: ['host.docker.internal:8081']
+        labels:
+          service: 'service-voiture'
+          instance: 'service-voiture-1'
+
