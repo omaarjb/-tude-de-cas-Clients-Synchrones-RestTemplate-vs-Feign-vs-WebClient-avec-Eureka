@@ -34,16 +34,17 @@ Comparer les performances des services **service-client** et **service-voiture**
 ### Screenshots Grafana - Service Client
 
 #### 10 Utilisateurs
-![Service Client - 10 utilisateurs](screenshots/service-client-10-users.png)
+<img width="1907" height="865" alt="image" src="https://github.com/user-attachments/assets/4a163f91-205d-434e-979f-48ff29134c15" />
 
 #### 50 Utilisateurs
-![Service Client - 50 utilisateurs](screenshots/service-client-50-users.png)
+<img width="1909" height="873" alt="image" src="https://github.com/user-attachments/assets/661ca9db-3a26-4c7f-8061-273b9568c1e3" />
 
 #### 100 Utilisateurs
-![Service Client - 100 utilisateurs](screenshots/service-client-100-users.png)
+<img width="1912" height="881" alt="image" src="https://github.com/user-attachments/assets/89cfdea5-60fa-4470-a90f-febffcd821ae" />
 
 #### 200 Utilisateurs
-![Service Client - 200 utilisateurs](screenshots/service-client-200-users.png)
+<img width="1913" height="878" alt="image" src="https://github.com/user-attachments/assets/ae5c6416-b57c-4fb8-aad4-7c7aba5af33e" />
+
 
 ---
 
@@ -61,16 +62,16 @@ Comparer les performances des services **service-client** et **service-voiture**
 ### Screenshots Grafana - Service Voiture
 
 #### 10 Utilisateurs
-![Service Voiture - 10 utilisateurs](screenshots/service-voiture-10-users.png)
+<img width="1911" height="749" alt="image" src="https://github.com/user-attachments/assets/69342c40-2d76-4b4d-8117-01c46732f4db" />
 
 #### 50 Utilisateurs
-![Service Voiture - 50 utilisateurs](screenshots/service-voiture-50-users.png)
+<img width="1911" height="747" alt="image" src="https://github.com/user-attachments/assets/85dd5e0d-e2fd-4665-8c41-e5098e79460d" />
 
 #### 100 Utilisateurs
-![Service Voiture - 100 utilisateurs](screenshots/service-voiture-100-users.png)
+<img width="1915" height="747" alt="image" src="https://github.com/user-attachments/assets/27b6c476-7179-45e5-9840-82fbb055e05e" />
 
 #### 200 Utilisateurs
-![Service Voiture - 200 utilisateurs](screenshots/service-voiture-200-users.png)
+<img width="1917" height="746" alt="image" src="https://github.com/user-attachments/assets/f8d38701-29e7-4a67-8822-6f7293827440" />
 
 ---
 
